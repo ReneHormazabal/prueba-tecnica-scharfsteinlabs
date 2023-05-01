@@ -1,4 +1,4 @@
-##PRUEBA TÉCNICA RENÉ HORMAZÁBAL PARA SCHARFSTEINLABS
+##PRUEBA TÉCNICA RENÉ HORMAZÁBAL PARA SCHARFSTEINLABS##
 
 *Esta es mi prueba técnica para postular al cargo de Desarrollador de Software para scharfsteinlabs*
 
